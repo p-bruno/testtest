@@ -1,43 +1,41 @@
-# EatSmart
+# **Projet : EatSmart**
 
-## Description
-[Présenter en une phrase l'application]
+**Etudiants :** (Nom des étudiants)
 
-Elle comprend deux parties principales :
+---
 
-[Les 2 parties de l'application]
+### **1. Description du projet**
 
-## Fonctionnalités principales
-### Front-office (eatSmartFront)
+(Complétez ici avec la description du projet présentée en classe.)
 
-[Fonctionnalités du front]
+ <img src="./assets/img/Schema ArchitectureEatsmartacompleter.png" >
 
-### Back-office (eatSmartBack)
+---
 
-[Fonctionnalités du back]
+### **3. Fonctionnalités principales**
 
-## Installation
+#### **3.1 Frontend (eatSmartFront)**
 
-### Prérequis
-- **Serveur web local** avec support PHP (ex : XAMPP)
-- **SGBD MySQL**
-- **Git** (pour la gestion des versions)
+- **Fonctionnalité 1 :**  
+  (Décrivez ici la première fonctionnalité du front-office.)
+  
+- **Fonctionnalité 2 :**  
+  (Décrivez ici la deuxième fonctionnalité du front-office.)
+  
+#### **3.2 Backend (eatSmartBack)**
 
-### Étapes d'installation
+- **Fonctionnalité 1 :**  
+  (Décrivez ici la première fonctionnalité du back-office.)
+  
+- **Fonctionnalité 2 :**  
+  (Décrivez ici la deuxième fonctionnalité du back-office.)
 
-1. Clonez ce dépôt :
+---
 
-[Ligne de commande pour cloner votre dépot]
+### **4. Technologies utilisées**
 
-2. Déplacez-vous dans le répertoire du projet :
+- **Frontend :** (Technologies prévues)
+- **Backend :** (Technologies prévues)
+- **Base de données :** (Technologies prévues)
 
-[Ligne de commande]
-
-## Technologies utilisées
-
-- **Frontend** : [Technologies]
-- **Backend** : [Technologies]
-- **Base de données** : [Technologies]
-
-## Contributeurs
-- **Développeurs** : (Noms des membres de l'équipe)
+---
