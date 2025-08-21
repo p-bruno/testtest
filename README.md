@@ -8,8 +8,6 @@
 
 (Complétez ici avec la description du projet présentée en classe.)
 
- <img src="./assets/img/Schema Architecture Eatsmart a completer.png" >
-
 ---
 
 ### **3. Fonctionnalités principales**
